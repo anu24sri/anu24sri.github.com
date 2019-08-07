@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/backgroundme.jpg"
+background-img: "/img/backgroundme.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -72,7 +72,7 @@ me-img: "/img/me.jpg"
 # Color the browser elements #
 ##############################
 color-browser: "#000000"
-apple-status-bar-style: "black"
+apple-status-bar-style: "green"
 
 ################
 # Web app mode #
