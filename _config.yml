@@ -33,13 +33,13 @@ author: "Anupriya Srivastava"
 title: "Life Voyage"
 description: "Anupriya's mindspace"
 keywords: "anupriya, electronics, fashion, technology, personal, blog"
-favicon: "/img/chip.ico"
+favicon: "/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/chip.ico"
+black-favicon: "/img/favicon.ico"
 
 background-img: "/img/backgroundme.jpg"
 
