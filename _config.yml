@@ -41,7 +41,7 @@ favicon: "/img/brainicon.ico"
 
 black-favicon: "/img/chip.ico"
 
-background-img: "/img/backgroundme.jpg"
+background-img: "../img/backgroundme.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -140,7 +140,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline.jpg"
+timeline-img: "/img/timelineme.jpg"
 
 ###########
 # Contact #
