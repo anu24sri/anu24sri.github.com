@@ -41,7 +41,7 @@ favicon: "/img/brainicon.ico"
 
 black-favicon: "/img/brainicon.ico"
 
-background-img: "../img/backgroundme.jpg"
+background-img: "../img/background.jpg"
 
 ##############################
 # Dynamic Text on the Header #
