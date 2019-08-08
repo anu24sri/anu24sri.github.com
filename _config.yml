@@ -39,7 +39,7 @@ favicon: "/img/brainicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/chip.ico"
+black-favicon: "/img/brainicon.ico"
 
 background-img: "../img/backgroundme.jpg"
 
