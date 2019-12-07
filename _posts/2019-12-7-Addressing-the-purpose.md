@@ -5,8 +5,8 @@ title: Addressing the purpose
 category: Structuring
 tags: [ 'electronics', ' vlsi', 'goals', 'motivation' ]
 ---
-So the first bolg post has been pending a long time. Yes for the good old 4 months. My first semester at my Masters and I was overwhelmed honeslty. talking about it, there is lot more to learn, lot more to strive for and lot more to execute.
-The only thing I am fastened on, is to not repeat the mistakes I had mad in my Bachelors. I have been constantly pulling myself on to the main road.
+So the first bolg post has been pending a long time. Yes! for the good old 4 months. So it was my first semester at my Masters and I was overwhelmed to be honest. Talking about it, there is lot more to learn, lot more to strive for and lot more to execute.
+The only thing I am fastened on, is to not repeat the mistakes I had made in my Bachelors. I have been constantly pulling myself on to the main road.
 Enough on the Academia. Let's get to the point.
 *Why this blog?*
 
