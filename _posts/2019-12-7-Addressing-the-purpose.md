@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Addressing the Whys, Whats and Whens
+title: Addressing the purpose
 category: Structuring
 tags: [ 'electronics', ' vlsi', 'goals', 'motivation' ]
 ---
