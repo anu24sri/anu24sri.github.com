@@ -7,7 +7,7 @@ tags: [ 'electronics', ' vlsi', 'goals', 'motivation' ]
 ---
 So a bit of briefing, I can't possibly give any excuse for not posting the whole damn year. All the 2020 jokes aside, the year gave us hell lot of time!! Well I would say it's all
 the matter of priorities. And as far as productivity is concerned, I feel 2020 was the year of introspection and transition for me. I obviously ended up working on myself, can't be more grateful.
-Now that new year has started, I think eveybody has been adressing 2020 a lot lately. Well I would spare you that. Moving ahead with today's post. 
+Now that new year has started, I think eveybody has been addressing 2020 a lot lately. Well I would spare you that. Moving ahead with today's post. 
 
 For the ones, who knew my blog existed and are aware of the 2 odd posts that were marinating on my blog, well I am deleting those. I feel I should start afresh. I had sucha struggle to create this one, 
 being from non CS background but I am glad I did, it was fun. Anyway, I have better plans, more dedication and better structure for this blog. This owes to the fact that I feel like a different(better) 
