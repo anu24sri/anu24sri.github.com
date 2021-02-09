@@ -28,4 +28,4 @@ them only virtually and that was exhausting on a whole different level but boy! 
 obviously. Meeting someone new has a whole different level of fun and excitement associated with it. But again, managing time is really crucial.
 
 Concluding I would say, this blog is all about how I see life, where I see my life going and most importantly keep myself accountable. Sharing it here stops me from being stagnant. I would also
-post things related to socio-economic aspect that's definitely there on my mind. So cool, hoping things to have fun journey!! <p>&#128516 </p>
+post things related to socio-economic aspect that's definitely there on my mind. So cool, hoping things to have fun journey!! 
